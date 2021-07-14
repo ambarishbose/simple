@@ -1,9 +1,6 @@
 
-This is the first line. Demo change?
+This is the first line.
 
 This is the second line. Test change.
 
 This is the third line
-
-Note that this toothbrush is totally safe to
-use for children, adults, pets, and wildlife.
