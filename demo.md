@@ -1,7 +1,7 @@
 
 This is the first line
 
-This is the second line. This is amazing. This is cool.
+This is the second line. This is amazing. This is cool. What is happening?
 
 This is the third line
 
