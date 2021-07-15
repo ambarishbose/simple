@@ -7,3 +7,5 @@ This is the third line
 
 Note that this toothbrush is totally safe to
 use for children, adults, pets, and wildlife.
+
+The toothbrush requires [need info here].
