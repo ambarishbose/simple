@@ -5,6 +5,6 @@ This is the second line.
 
 This is the third line
 
-This is a merge test.
+I have removed this line now.
 
 The toothbrush requires [need info here].
